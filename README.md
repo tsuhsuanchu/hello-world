@@ -20,4 +20,4 @@ In-depth paragraph about your project and overview
 * Modifications
 
 ## License
-This 
+This **License** is ....
